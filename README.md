@@ -28,8 +28,5 @@ Due to file size limitations, you can access the full dataset and project files 
 
 ---
 
-### **How This Helps Your Resume**
-- A well-structured **README** makes it easier for recruiters or hiring managers to understand your work.  
-- Adding **a short description of each project** improves readability.  
-- If you want, you can also include **sample visuals** (charts, graphs, or screenshots) by uploading images to GitHub and referencing them like this:
+
 
